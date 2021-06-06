@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Ewert);
+@import url(https://fonts.googleapis.com/css?family=Ultra);
+body {
+  background-image: url(/images/K6g10BB.jpg);
+  background-repeat: repeat;
+  background-size:cover;
+  padding: 20px;
+}
+
+.poster {
+  width: 488px;
+  height: 640px;
+  background-image: url(/images/Y9Tiq8a.jpg);
+  background-size:cover;
+  padding:20px;
+  padding-bottom: 60px;
+  font-family: Ultra;
+  color:#291200;
+  text-align: center;
+  box-shadow: 2px 4px 8px 3px #000000;
+}
+
+#mugshot {
+  width :300px;
+  height:325px;
+  border: 2px solid #291200;
+  margin:10px;
+}
+h1 {
+  font-family: Ewert;
+  color:#291200;
+  font-size:44pt;
+  font-weight:normal;
+  margin:0
+}
+.subheading {
+  font-size:20px;
+  margin-bottom: 0;
+  margin-top: 5px;
+}
+.name {
+  font-size: 30px;
+  margin: 0;
+}
+.description {
+  font-style: italic;
+  margin: 0;
+}
+
+h2 {
+	margin: 0;
+}
+
+#price {
+  text-decoration-style: double;
+  font-size:xx-large;
+}
